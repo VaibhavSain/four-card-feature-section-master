@@ -1,0 +1,110 @@
+* {
+   margin: 0;
+   padding: 0;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body {
+    background-color:#ffff;
+    height: 120vh;
+    width: 100vw;
+    position: relative;
+}
+.heading i{
+    color: rgba(0,0, 0, 0.5);
+    font-size: 38px;
+    font-weight: 200;
+}
+.heading {
+    color:rgba(0, 0, 0, 0.7);
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 500;
+    position: absolute;
+    left: 34%;
+    top: 2em;
+}
+.paragraph {
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 14px;
+    position: absolute;
+    left:32%;
+    line-height: 22px;
+    top:15em;
+}
+.content1 {
+    position: relative;
+    background-color: #ffff;
+    height:200px;
+    width: 280px;
+    border-top-style: solid;
+    border-top-color: #e15756;
+    border-top-width:4px;
+    border-radius: 10px;
+    position: absolute;
+    top: 18em;
+    box-shadow: 2px 2px 5px 0px gray;
+    left: 34em;
+}
+.heading1 {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 22px;
+    position: relative;
+    top: 1em;
+    left: 1.2em;
+}
+.paragraph1 {
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 13px;
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+    line-height: 22px;
+}
+.team-logo {
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+}
+.content2 {
+    position: relative;
+    background-color: #ffff;
+    height:200px;
+    width: 280px;
+    border-top-style: solid;
+    border-top-color: #5ac7c8;
+    border-top-width:4px;
+    border-radius: 10px;
+    position: absolute;
+    top: 24em;
+
+    box-shadow: 2px 2px 5px 0px gray;
+    left: 14.8em
+}
+.content3 {
+    position: relative;
+    background-color: #ffff;
+    height:200px;
+    width: 280px;
+    border-top-style: solid;
+    border-top-color: #5c9ce1;
+    border-top-width:4px;
+    border-radius: 10px;
+    position: absolute;
+    top: 24em;
+    box-shadow: 2px 2px 5px 0px gray;
+    right: 14.8em;   
+}
+.content4 {
+    position: relative;
+    background-color: #ffff;
+    height:200px;
+    width: 280px;
+    border-top-style: solid;
+    border-top-color: #f7ae52;
+    border-top-width:4px;
+    border-radius: 10px;
+    position: absolute;
+    top: 32em;
+    box-shadow: 2px 2px 5px 0px gray;
+    left: 34em;
+}
